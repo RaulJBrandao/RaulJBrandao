@@ -31,17 +31,17 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
     <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
 </div>
 
 <div align="center">
     <h2>📊 GitHub Stats </h2>
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=RaulJBrandao&show_icons=true&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulJBrandao&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=RaulJBrandao&show_icons=true&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulJBrandao&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
