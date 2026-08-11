@@ -43,7 +43,7 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <a href="https://github.com/RaulJBrandao">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=RaulJBrandao" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=RaulJBrandao" alt="Top Languages"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=RaulJBrandao&theme=dark" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=RaulJBrandao&theme=dark" alt="Top Languages"/>
   </a>
 </div>
