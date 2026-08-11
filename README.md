@@ -41,7 +41,13 @@
 </div>
 
 <div align="center">
-    <h2>📊 GitHub Stats </h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=RaulJBrandao&show_icons=true&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulJBrandao&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <h2>📊 GitHub Stats</h2>
+
+  <a href="https://github.com/RaulJBrandao">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulJBrandao&show_icons=true&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false"/>
+  </a>
+
+  <a href="https://github.com/RaulJBrandao">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulJBrandao&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  </a>
 </div>
