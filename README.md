@@ -44,10 +44,8 @@
   <h2>📊 GitHub Stats</h2>
 
   <a href="https://github.com/RaulJBrandao">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulJBrandao&show_icons=true&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false"/>
-  </a>
+    <img src="https://github-stats-extended.vercel.app/api?username=RaulJBrandao" alt="GitHub Stats">
 
-  <a href="https://github.com/RaulJBrandao">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulJBrandao&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RaulJBrandao" alt="Top Languages">
   </a>
 </div>
